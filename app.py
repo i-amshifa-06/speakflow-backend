@@ -241,5 +241,5 @@ def end_conversation():
 # RUN SERVER
 # ==========================================
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run()
 #``` Updated from your uploaded code to fix duplicated correction text and make scores dynamic out of 100. :contentReference[oaicite:0]{index=0}
